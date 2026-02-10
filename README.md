@@ -20,24 +20,26 @@ This workflow is essential for:
 
 ---
 
-## 📁 Folder Structure
-
+# Project Structure
+```
 EDA-and-Feature-Engineering/
 │
 ├── Exploratory Data Analysis/
-│ └── Exploratory Data Analysis.ipynb
+│   └── Exploratory Data Analysis.ipynb
 │
 ├── Feature Engineering/
-│ └── Feature Engineering.ipynb
+│   └── Feature Engineering.ipynb
 │
 ├── data/
-│ └── raw_dataset.csv
+│   └── raw_dataset.csv
 │
 ├── outputs/
-│ └── cleaned_data.csv
+│   └── cleaned_data.csv
 │
 ├── requirements.txt
+│
 └── README.md
+```
 
 
 ---
