@@ -22,7 +22,7 @@ This workflow is essential for:
 
 ## 📁 Folder Structure
 
-EDA-and-Feature-Engineering/
+EDA-and-Feature-Engineering/https://github.com/kunalkumar2001/EDA-and-Feature-Engineering/blob/main/README.md
 │
 ├── Exploratory Data Analysis/
 │ └── Exploratory Data Analysis.ipynb
